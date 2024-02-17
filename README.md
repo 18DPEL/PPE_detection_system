@@ -2,6 +2,8 @@
 
 This repository contains a Python script for object tracking using YOLO (You Only Look Once) deep learning model. The script utilizes the ultralytics library to load the YOLO model and ppe detection on a video file.
 
+# in this project i am using custom data which is annotated by me each and every image then i build the custom model by using yolov8n pre-trained weights 
+
 # Installation
 Clone the repository to your local machine.
 Install the required libraries by running pip install -r requirements.txt.
